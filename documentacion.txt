@@ -1,3 +1,5 @@
 Este el inicio del proyecto para aprender Git y GitHub.	
 
 Hoy inicie de lleno al proyecto. 
+
+En poco tiempo conseguiré mi nuevo empleo como programador.
